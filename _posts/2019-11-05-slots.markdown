@@ -6,6 +6,7 @@ description: Basic bar trivia style game.
 img: slots.jpg # Add image post (optional)
 fig-caption: # Screen capture of the slot machine game (optional)
 tags: [Trivia, Games]
+---
 
 ----
 
