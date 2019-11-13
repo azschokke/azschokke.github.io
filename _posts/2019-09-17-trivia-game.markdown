@@ -3,7 +3,7 @@ layout: post
 title: Trivia Game
 date: 2019-09-17 13:32:20 +0300
 description: Basic bar trivia style game.  
-img: trivia.jpg # Add image post (optional)
+img: trivia.png # Add image post (optional)
 fig-caption: # Screen capture of the trivia game (optional)
 tags: [Trivia, Games]
 ---
