@@ -10,8 +10,8 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Alicen Zschokke # add your name
 author-img: headshot-generic.jpg # add your photo
 about-author: Student at Saint Paul College on the Computer Programming track, Java emphasis. Eager to learn whatever I can! # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: azschokke # add your Github handle
 social-linkedin: Alicen Zschokke # add your Linkedin handle
 social-email: alicen.zschokke@gmail.com # add your Email address
