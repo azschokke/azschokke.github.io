@@ -11,7 +11,7 @@ tags: [Trivia, Games]
 ----
 
 ## Game
-Click <a href = "https://azschokke.github.io/DGIM-Trivia" target = "_blank" >HERE</a> to play. 
+Click <a href = "https://azschokke.github.io/Simon" target = "_blank" >HERE</a> to play. 
 
 ----
 
