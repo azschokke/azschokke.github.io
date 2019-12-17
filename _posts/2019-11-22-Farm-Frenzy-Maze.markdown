@@ -3,7 +3,7 @@ layout: post
 title: Maze Game
 date: 2019-11-22 13:32:20 +0300
 description: Farm themed maze game.   
-img: trivia.png # Add image post (optional)
+img: maze.png # Add image post (optional)
 fig-caption: # Screen capture of the trivia game (optional)
 tags: [Maze, Games]
 ---
