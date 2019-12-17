@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slider Game
+title: Colorado Slider Game
 date: 2019-12-09 13:32:20 +0300
 description: Colorado themed slider game.   
 img: slider.png # Add image post (optional)
