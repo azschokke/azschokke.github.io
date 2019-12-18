@@ -9,7 +9,7 @@ tags: [Slider, Games]
 ---
 ----
 ## Game
-Click <a href = "https://azschokke.github.io/Slider" target = "_blank" >HERE</a> to play. 
+Click <a href = "https://azschokke.github.io/slider" target = "_blank" >HERE</a> to play. 
 
 ----
 
