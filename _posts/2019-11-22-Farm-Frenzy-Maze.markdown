@@ -2,14 +2,14 @@
 layout: post
 title: Maze Game
 date: 2019-11-22 13:32:20 +0300
-description: Farm themed maze game - redux.   
+description: Farm themed maze game.   
 img: maze.png # Add image post (optional)
 fig-caption: # Screen capture of the trivia game (optional)
 tags: [Maze, Games]
 ---
 ----
 ## Game
-Click <a href = "https://azschokke.github.io/FarmFrenzyMaze-Redux" target = "_blank" >HERE</a> to play. 
+Click <a href = "https://azschokke.github.io/FarmFrenzyMaze" target = "_blank" >HERE</a> to play. 
 
 ----
 
